@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMj5IuG9DUwtb7s/3f47AlbpTVpWSxgmuOKp8kkFo+V63vY9gGU06hpBMbT6rq9T4vDPag4X5g/R64lQsAiGCg==",
+  "success": true,
+  "projectFilePath": "F:\\VSCode\\MVVM4\\MVVM4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NoutMishi\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\NoutMishi\\.nuget\\packages\\materialdesigncolors\\2.1.0-ci333\\materialdesigncolors.2.1.0-ci333.nupkg.sha512",
+    "C:\\Users\\NoutMishi\\.nuget\\packages\\materialdesignthemes\\4.7.0-ci333\\materialdesignthemes.4.7.0-ci333.nupkg.sha512",
+    "C:\\Users\\NoutMishi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.monogame.net/guestAuth/app/nuget/feed/_Root/default/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
